@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quizsandbox3</string>
+    <string name="judul">Pencarian Calon Pasangan</string>
+    <string name="isi">Profil-profil berikut adalah para peserta yang telah disesuaikan dengan preferensimu</string>
+    <string name="nama1">Aisyah (HTS-001)</string>
+    <string name="alamat1">Pekalongan</string>
+    <string name="des1">Lajang</string>
+    <string name="nama2">Adinda (HTS-002)</string>
+    <string name="alamat2">Jakarta</string>
+    <string name="des2">Lajang</string>
+    <string name="nama3">Indriani (HTS-003)</string>
+    <string name="alamat3">Gorontalo</string>
+    <string name="des3">Lajang</string>
+    <string name="nama4">Chandra (HTS-004)</string>
+    <string name="alamat4">Jambi</string>
+    <string name="des4">Lajang</string>
+    <string name="nama5">Ummu Sualim (HTS-005)</string>
+    <string name="alamat5">Pekalongan</string>
+    <string name="des5">Lajang</string>
+    <string name="nama6">Windriani (HTS-006)</string>
+    <string name="alamat6">Gorontalo</string>
+    <string name="des6">Lajang</string>
+    <string name="nama7">Zainab (HTS-007)</string>
+    <string name="alamat7">Jambi</string>
+    <string name="des7">Lajang</string>
+    <string name="umur">%d tahun</string>
+    <string name="tentang">Tentang</string>
+    <string name="expand_button">Selengkapnya</string>
+</resources>
